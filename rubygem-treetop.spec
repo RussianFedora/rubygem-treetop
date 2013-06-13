@@ -6,7 +6,7 @@
 Summary:        A Ruby-based text parsing and interpretation DSL
 Name:           rubygem-%{gemname}
 Version:        1.4.12
-Release:        1%{?dist}
+Release:        2%{?dist}
 Group:          Development/Languages
 License:        MIT
 URL:            http://%{gemname}.rubyforge.org/
