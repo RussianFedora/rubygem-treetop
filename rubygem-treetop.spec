@@ -5,8 +5,8 @@
 
 Summary:        A Ruby-based text parsing and interpretation DSL
 Name:           rubygem-%{gemname}
-Version:        1.4.12
-Release:        2%{?dist}
+Version:        1.4.14
+Release:        1%{?dist}
 Group:          Development/Languages
 License:        MIT
 URL:            http://%{gemname}.rubyforge.org/
@@ -79,7 +79,7 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
-* Wed Jun 5 2013 Sergey Mihailov <sergey.mihailov@gpm.int> - 1.4.12-1
+* Wed Jun 5 2013 Sergey Mihailov <sergey.mihailov@gmail.com> - 1.4.14-1
 - Rebuilt for new version
 
 * Sun Jan 08 2012 <stahnma@fedoraproject.org> - 1.4.10-1
